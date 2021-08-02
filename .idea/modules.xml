@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Minesweeper.Problems-Concat_positive_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Minesweeper.Problems-Concat_positive_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Minesweeper.Problems-Concat_positive_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Minesweeper.Problems-Concat_positive_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Minesweeper.Problems-Concat_positive_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Minesweeper.Problems-Concat_positive_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating list/Minesweeper.Problems-Creating_list.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating list/Minesweeper.Problems-Creating_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating list/Minesweeper.Problems-Creating_list.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating list/Minesweeper.Problems-Creating_list.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating list/Minesweeper.Problems-Creating_list.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating list/Minesweeper.Problems-Creating_list.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Detail manufacturing/Minesweeper.Problems-Detail_manufacturing.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Detail manufacturing/Minesweeper.Problems-Detail_manufacturing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Detail manufacturing/Minesweeper.Problems-Detail_manufacturing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Detail manufacturing/Minesweeper.Problems-Detail_manufacturing.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Detail manufacturing/Minesweeper.Problems-Detail_manufacturing.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Detail manufacturing/Minesweeper.Problems-Detail_manufacturing.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Minesweeper.Problems-Find_the_nearest_number.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Minesweeper.Problems-Find_the_nearest_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Minesweeper.Problems-Find_the_nearest_number.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Minesweeper.Problems-Find_the_nearest_number.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Minesweeper.Problems-Find_the_nearest_number.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Minesweeper.Problems-Find_the_nearest_number.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Leap year/Minesweeper.Problems-Leap_year.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Minesweeper.Problems-Leap_year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Leap year/Minesweeper.Problems-Leap_year.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Minesweeper.Problems-Leap_year.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Leap year/Minesweeper.Problems-Leap_year.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Minesweeper.Problems-Leap_year.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Minesweeper.Problems-Output_the_list's_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Minesweeper.Problems-Output_the_list's_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Minesweeper.Problems-Output_the_list's_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Minesweeper.Problems-Output_the_list's_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Minesweeper.Problems-Output_the_list's_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Minesweeper.Problems-Output_the_list's_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The LIFO principle in action/Minesweeper.Problems-The_LIFO_principle_in_action.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The LIFO principle in action/Minesweeper.Problems-The_LIFO_principle_in_action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The LIFO principle in action/Minesweeper.Problems-The_LIFO_principle_in_action.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The LIFO principle in action/Minesweeper.Problems-The_LIFO_principle_in_action.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The LIFO principle in action/Minesweeper.Problems-The_LIFO_principle_in_action.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The LIFO principle in action/Minesweeper.Problems-The_LIFO_principle_in_action.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" />
+    </modules>
+  </component>
+</project>
